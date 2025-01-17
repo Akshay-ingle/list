@@ -1,0 +1,9 @@
+mylist=[]
+print()
+a12=[1,2,3,4,5]
+print(a12)
+alist=[1,2,3]*3
+print(alist)
+list2=[1,2,3,4]
+list2=list2[::-1]
+print(list2)
